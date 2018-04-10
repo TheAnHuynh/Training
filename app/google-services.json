@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8559013147",
+    "firebase_url": "https://tigia-d8715.firebaseio.com",
+    "project_id": "tigia-d8715",
+    "storage_bucket": "tigia-d8715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8559013147:android:03261eb7c3e54193",
+        "android_client_info": {
+          "package_name": "d14cqcp01.group5.tigia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8559013147-ktt0teoi58c480nf4f90lmg6j7i6j40r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaTVGfvQl4a0A1dK76NF7zZJmnNycDXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
